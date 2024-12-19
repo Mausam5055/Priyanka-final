@@ -1,0 +1,6 @@
+This folder contains portfolio images:
+- profile.jpg
+- about.jpg
+- testimonial1.jpg
+- testimonial2.jpg
+- testimonial3.jpg
